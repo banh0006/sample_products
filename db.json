@@ -2,17 +2,17 @@
 "data" : [
   {
     "id": 1,
-    "name": "Brocolli - 1 Kg",
+    "name": "Anthracite",
     "price": "20"
   },
   {
     "id": 2,
-    "name": "Cauliflower - 1 Kg",
+    "name": "Satin Gunmetal",
     "price": "60"
   },
   {
     "id": 3,
-    "name": "Cucumber - 1 Kg",
+    "name": "RTX Floor Mats",
     "price": "48"
   }
 ]
