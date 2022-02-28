@@ -3,17 +3,17 @@
   {
     "id": 1,
     "name": "Brocolli - 1 Kg",
-    "price": 120
+    "price": "20"
   },
   {
     "id": 2,
     "name": "Cauliflower - 1 Kg",
-    "price": 60
+    "price": "60"
   },
   {
     "id": 3,
     "name": "Cucumber - 1 Kg",
-    "price": 48
+    "price": "48"
   }
 ]
 }
