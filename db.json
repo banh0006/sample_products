@@ -2,20 +2,18 @@
 "data" : [
   {
     "id": 1,
-    "name": "anthracite",
-  {    "price": 120,
-    "category": "vegetables"
+    "name": "Anthracite",
+    "price": 120,
   },
+  {
     "id": 2,
-    "name": "satin-gunmetal",
+    "name": "Satin Gunmetal",
     "price": 60,
-    "category": "vegetables"
   },
   {
     "id": 3,
-    "name": "rtx-floor-mats-p826633",
+    "name": "RTX FLOOR MATS",
     "price": 48,
-    "category": "vegetables"
   }
 ]
 }
