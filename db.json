@@ -2,17 +2,95 @@
 "data" : [
   {
     "id": 1,
-    "name": "Anthracite",
+    "name": "KMC KM233",
+    "links": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Wheels By Brand",
+        "href": "/"
+      },
+      {
+        "name": "KMC",
+        "href": "/"
+      },
+      {
+        "name": "KM233",
+        "href": "/"
+      },
+      {
+        "name": "Satin Black",
+        "href": "/"
+      },
+      {
+        "name": "SKU: W185200",
+        "href": "/"
+      }
+    ],
     "price": "20"
   },
   {
     "id": 2,
     "name": "Satin Gunmetal",
+    "links": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Wheels By Brand",
+        "href": "/"
+      },
+      {
+        "name": "Fast Wheels",
+        "href": "/"
+      },
+      {
+        "name": "FC03",
+        "href": "/"
+      },
+      {
+        "name": "Satin Gunmetal",
+        "href": "/"
+      },
+      {
+        "name": "SKU: W1954",
+        "href": "/"
+      }
+    ],
     "price": "60"
   },
   {
     "id": 3,
     "name": "RTX Floor Mats ",
+    "links": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Roof Rack Parts",
+        "href": "/"
+      },
+      {
+        "name": "Rhino-Rack",
+        "href": "/"
+      },
+      {
+        "name": "FC03",
+        "href": "/"
+      },
+      {
+        "name": "Satin Gunmetal",
+        "href": "/"
+      },
+      {
+        "name": "SKU: P193813",
+        "href": "/"
+      }
+    ],
     "price": "48"
   }
 ]
