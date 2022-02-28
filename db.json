@@ -1,0 +1,21 @@
+{ 
+"data" : [
+  {
+    "id": 1,
+    "name": "anthracite",
+  {    "price": 120,
+    "category": "vegetables"
+  },
+    "id": 2,
+    "name": "satin-gunmetal",
+    "price": 60,
+    "category": "vegetables"
+  },
+  {
+    "id": 3,
+    "name": "rtx-floor-mats-p826633",
+    "price": 48,
+    "category": "vegetables"
+  }
+]
+}
