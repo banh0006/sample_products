@@ -29,6 +29,7 @@
         "href": "/"
       }
     ],
+    "images": ["https://images.canadawheels.ca/images/wheels/wheelw/hKM2337.png"],
     "price": "20"
   },
   {
@@ -60,6 +61,7 @@
         "href": "/"
       }
     ],
+    "images": ["https://images.canadawheels.ca/images/wheels/wheelf/FC03-FC03-Satin-Gunmetal-B.jpg"],
     "price": "60"
   },
   {
@@ -83,6 +85,7 @@
         "href": "/"
       }
     ],
+    "images": ["https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_1.png", "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_2.png", "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS.png"],
     "price": "48"
   }
 ]
