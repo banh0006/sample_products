@@ -2,6 +2,7 @@
     "data": [
         {
             "id": 1,
+            "type": "product",
             "name": "KMC KM233",
             "links": [
                 {
@@ -40,6 +41,7 @@
         },
         {
             "id": 2,
+            "type": "model",
             "name": "Satin Gunmetal",
             "links": [
                 {
@@ -61,10 +63,6 @@
                 {
                     "name": "Satin Gunmetal",
                     "href": "/"
-                },
-                {
-                    "name": "SKU: W1954",
-                    "href": "/"
                 }
             ],
             "images": [
@@ -78,6 +76,7 @@
         },
         {
             "id": 3,
+            "type": "product",
             "name": "RTX Floor Mats ",
             "links": [
                 {
