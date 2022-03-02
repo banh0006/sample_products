@@ -1,92 +1,112 @@
-{ 
-"data" : [
-  {
-    "id": 1,
-    "name": "KMC KM233",
-    "links": [
-      {
-        "name": "Home",
-        "href": "/"
-      },
-      {
-        "name": "Wheels By Brand",
-        "href": "/"
-      },
-      {
-        "name": "KMC",
-        "href": "/"
-      },
-      {
-        "name": "KM233",
-        "href": "/"
-      },
-      {
-        "name": "Satin Black",
-        "href": "/"
-      },
-      {
-        "name": "SKU: W185200",
-        "href": "/"
-      }
-    ],
-    "images": ["https://images.canadawheels.ca/images/wheels/wheelw/hKM2337.png"],
-    "price": "20"
-  },
-  {
-    "id": 2,
-    "name": "Satin Gunmetal",
-    "links": [
-      {
-        "name": "Home",
-        "href": "/"
-      },
-      {
-        "name": "Wheels By Brand",
-        "href": "/"
-      },
-      {
-        "name": "Fast Wheels",
-        "href": "/"
-      },
-      {
-        "name": "FC03",
-        "href": "/"
-      },
-      {
-        "name": "Satin Gunmetal",
-        "href": "/"
-      },
-      {
-        "name": "SKU: W1954",
-        "href": "/"
-      }
-    ],
-    "images": ["https://images.canadawheels.ca/images/wheels/wheelf/FC03-FC03-Satin-Gunmetal-B.jpg"],
-    "price": "60"
-  },
-  {
-    "id": 3,
-    "name": "RTX Floor Mats ",
-    "links": [
-      {
-        "name": "Home",
-        "href": "/"
-      },
-      {
-        "name": "Roof Rack Parts",
-        "href": "/"
-      },
-      {
-        "name": "Rhino-Rack",
-        "href": "/"
-      },
-      {
-        "name": "SKU: P193813",
-        "href": "/"
-      }
-    ],
-    "images": ["https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_1.png", "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_2.png", "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS.png"],
-    "price": "48"
-  }
-]
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "KMC KM233",
+            "links": [
+                {
+                    "name": "Home",
+                    "href": "/"
+                },
+                {
+                    "name": "Wheels By Brand",
+                    "href": "/"
+                },
+                {
+                    "name": "KMC",
+                    "href": "/"
+                },
+                {
+                    "name": "KM233",
+                    "href": "/"
+                },
+                {
+                    "name": "Satin Black",
+                    "href": "/"
+                },
+                {
+                    "name": "SKU: W185200",
+                    "href": "/"
+                }
+            ],
+            "images": [
+                "https://images.canadawheels.ca/images/wheels/wheelw/hKM2337.png"
+            ],
+            "rating": {
+                "average": "4.4",
+                "no_reviews": "2"
+            },
+            "price": "20"
+        },
+        {
+            "id": 2,
+            "name": "Satin Gunmetal",
+            "links": [
+                {
+                    "name": "Home",
+                    "href": "/"
+                },
+                {
+                    "name": "Wheels By Brand",
+                    "href": "/"
+                },
+                {
+                    "name": "Fast Wheels",
+                    "href": "/"
+                },
+                {
+                    "name": "FC03",
+                    "href": "/"
+                },
+                {
+                    "name": "Satin Gunmetal",
+                    "href": "/"
+                },
+                {
+                    "name": "SKU: W1954",
+                    "href": "/"
+                }
+            ],
+            "images": [
+                "https://images.canadawheels.ca/images/wheels/wheelf/FC03-FC03-Satin-Gunmetal-B.jpg"
+            ],
+            "rating": {
+                "average": "3.9",
+                "no_reviews": "1"
+            },
+            "price": "60"
+        },
+        {
+            "id": 3,
+            "name": "RTX Floor Mats ",
+            "links": [
+                {
+                    "name": "Home",
+                    "href": "/"
+                },
+                {
+                    "name": "Roof Rack Parts",
+                    "href": "/"
+                },
+                {
+                    "name": "Rhino-Rack",
+                    "href": "/"
+                },
+                {
+                    "name": "SKU: P193813",
+                    "href": "/"
+                }
+            ],
+            "images": [
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_1.png",
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_2.png",
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS.png"
+            ],
+            "rating": {
+                "average": "4.6",
+                "no_reviews": "100"
+            },
+            "price": "48"
+        }
+    ]
 }
