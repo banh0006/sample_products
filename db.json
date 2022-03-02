@@ -30,6 +30,45 @@
                     "href": "/"
                 }
             ],
+            "model_details": [
+                {
+                    "name": "SKU",
+                    "value": "W185200",
+                    "explaination": "This is the CanadaWheels Item number, to help us easyly identify parts within our inventory"
+                },
+                {
+                    "name": "Size",
+                    "value": "17x9",
+                    "explaination": "This is the diameter of the wheel and the width of the wheel. Click for video.",
+                    "link": "/"
+                },
+                {
+                    "name": "PCD",
+                    "value": "5x5.0",
+                    "explaination": "This is the bolt pattern of your car, this should always match your vehicle exactly. Click for video.",
+                    "link": "/"
+                },
+                {
+                    "name": "Load index",
+                    "value": "2500",
+                    "explaination": "Offset is a range. For every car there is acceptable range of offset which can be applied. Low offsets put a wheels out, high offsets pull a wheel in. Click for video.",
+                    "link": "/"
+                },
+                {
+                    "name": "Offset",
+                    "value": "-38",
+                    "explaination": "This is colour or paint of the wheel."
+                },
+                {
+                    "name": "Finish",
+                    "value": "Satin Black"
+                },
+                {
+                    "name": "Availability",
+                    "value": "Not Available",
+                    "explaination": "Check this to see if the product is out of stock."
+                }
+            ],
             "images": [
                 "https://images.canadawheels.ca/images/wheels/wheelw/hKM2337.png"
             ],
@@ -94,6 +133,16 @@
                 {
                     "name": "SKU: P193813",
                     "href": "/"
+                }
+            ],
+            "model_details": [
+                {
+                    "name": "SKU",
+                    "value": "P193813"
+                },
+                {
+                    "name": "Availability",
+                    "value": "Out of stock"
                 }
             ],
             "images": [
