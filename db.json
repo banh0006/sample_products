@@ -76,7 +76,7 @@
                 "average": "4.4",
                 "no_reviews": "2"
             },
-            "price": "20",
+            "price": "20.00",
             "stock": "38"
         },
         {
@@ -112,7 +112,7 @@
                 "average": "3.9",
                 "no_reviews": "1"
             },
-            "price": "60"
+            "price": "60.52"
         },
         {
             "id": 3,
@@ -155,7 +155,7 @@
                 "average": "4.6",
                 "no_reviews": "100"
             },
-            "price": "48",
+            "price": "48.01",
             "stock": "0"
         }
     ]
