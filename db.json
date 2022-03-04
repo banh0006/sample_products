@@ -4,6 +4,9 @@
             "id": 1,
             "type": "product",
             "name": "KMC KM233",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
@@ -227,8 +230,8 @@
                 "The industry’s benchmark for customer support and after-sales service"
             ],
             "warranty": {
-                "main_title": "3 YEAR WARRANTY ON FULLY PAINTED FINISHES",
-                "title": "WHAT IS COVERED?",
+                "main_title": "",
+                "title": "",
                 "content": [
                     "Peeling of the clear coat, paint or chrome finish.",
                     "Wheels with a radial or lateral run-out greater than 0.020 inch/0.50mm, provided there is no evidence of impact.",
