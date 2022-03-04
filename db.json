@@ -216,7 +216,31 @@
                 "no_reviews": "100"
             },
             "price": "174.99",
-            "stock": "2"
+            "stock": "2",
+            "features": [
+                "All wheels are tested to exceed JWL, VIA and SAE standards for radial fatigue, impact resistance, bending resistance, air leaking and more",
+                "Analysis and revision with Solid Works® prior to production approval",
+                "CASS (salt spray) corrosion tested",
+                "GVWR (load rating) verification for every vehicle 3D digital mapping with the aerospace approved Faro Gauge® to confirm X and Y factor clearance check",
+                "40 000+ Canadian specific vehicles measured with over 300 data points",
+                "Custom fitments drilled and milled with Mazak CNC 3-axis vertical mill",
+                "SEMA certified installers",
+                "Highest standards in radial & lateral run out verification",
+                "Wheel and tire packages are laser optically balanced",
+                "The industry’s benchmark for customer support and after-sales service"
+            ],
+            "warranty": {
+                "main_title": "3 YEAR WARRANTY ON FULLY PAINTED FINISHES",
+                "title": "WHAT IS COVERED?",
+                "content": [
+                    "Peeling of the clear coat, paint or chrome finish.",
+                    "Wheels with a radial or lateral run-out greater than 0.020 inch/0.50mm, provided there is no evidence of impact.",
+                    "Stress cracks in the wheel, provided there is no evidence of impact.",
+                    "Bubbles in the paint or chrome or other blemishes in the finish of the wheel.",
+                    "Wheels that leak air.",
+                    "Improper machining of the center bore or lug holes."
+                ]
+            }
         }
     ]
 }
