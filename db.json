@@ -4,6 +4,9 @@
             "id": 1,
             "type": "product",
             "name": "KMC KM233",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
@@ -111,13 +114,15 @@
             "rating": {
                 "average": "3.9",
                 "no_reviews": "1"
-            },
-            "price": "60.52"
+            }
         },
         {
             "id": 3,
             "type": "product",
             "name": "RTX Floor Mats ",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
@@ -157,6 +162,61 @@
             },
             "price": "48.01",
             "stock": "0"
+        },
+        {
+            "id": 4,
+            "type": "product",
+            "name": "Fast Wheels Aventure",
+            "brand_logo": "https://images.canadawheels.ca/images/Brands/15313138141512001057Fast_Wheels-opt.png",
+            "brand_intro": "Fast Wheels is one of the best brands in Canada in terms of their quality. If you're looking for a custom tuner wheel, a direct-fit wheel, or something for your winter tires, Fast Wheels is one of our top recommendations every time. As wheel technology advances, so does Fast Wheels business practice, to move the OEM accessory and tuner wheel market forward. Their latest Flow Form technology is amazing for low-weight winter approved wheels, and they have the largest catalog of all Canadian brands.",
+            "product_model": "Aventure",
+            "links": [
+                {
+                    "name": "Home",
+                    "href": "/"
+                },
+                {
+                    "name": "Wheel by brand",
+                    "href": "/"
+                },
+                {
+                    "name": "Fast Wheels",
+                    "href": "/"
+                },
+                {
+                    "name": "Aventure",
+                    "href": "/"
+                },
+                {
+                    "name": "Gloss Gunmetal",
+                    "href": "/"
+                },
+                {
+                    "name": "SKU: W219455",
+                    "href": " /"
+                }
+            ],
+            "model_details": [
+                {
+                    "name": "SKU",
+                    "value": "P193813"
+                },
+                {
+                    "name": "Availability",
+                    "value": "Out of stock"
+                }
+            ],
+            "images": [
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_1.png",
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS_2.png",
+                "https://webapi.rthibert.com/ImagesRT/WEB_RHRDS.png"
+            ],
+            "rating": {
+                "average": "4.6",
+                "no_reviews": "100"
+            },
+            "price": "174.99",
+            "stock": "2"
         }
     ]
 }
