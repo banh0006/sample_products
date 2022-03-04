@@ -4,9 +4,9 @@
             "id": 1,
             "type": "product",
             "name": "KMC KM233",
-            "brand_logo": "https://images.canadawheels.ca/images/Brands/1512002294Kmc_wheels.png",
-            "brand_intro": "A brand with 30+ years of experience, and a proud member of the WheelPros family, KMC is one of the most recognizable wheel brands in the world. Their family line consists of marks like American Racing, Motegi, Asanti, and MotoMetal, and with siblings like that you know they are 100% dedicated to quality.",
-            "product_model": "KM233",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
@@ -86,8 +86,6 @@
             "id": 2,
             "type": "model",
             "name": "Satin Gunmetal",
-            "brand_logo": "https://images.canadawheels.ca/images/Brands/15313138141512001057Fast_Wheels-opt.png",
-            "brand_intro": "Fast Wheels is one of the best brands in Canada in terms of their quality. If you're looking for a custom tuner wheel, a direct-fit wheel, or something for your winter tires, Fast Wheels is one of our top recommendations every time. As wheel technology advances, so does Fast Wheels business practice, to move the OEM accessory and tuner wheel market forward. Their latest Flow Form technology is amazing for low-weight winter approved wheels, and they have the largest catalog of all Canadian brands.",
             "links": [
                 {
                     "name": "Home",
@@ -122,8 +120,9 @@
             "id": 3,
             "type": "product",
             "name": "RTX Floor Mats ",
-            "brand_logo": "https://images.canadawheels.ca/images/Brands/1585939233rr-logo-Blk.png",
-            "brand_intro": "The Rhino-Rack Drill Stop is used to assist fitters when drilling in critical areas of a vehicle ensuring that the drill stops where desired. Made from durable grey PVC with a 5mm hole diameter, this is suitable with most drill bits. 5mm hole diameter Dimensions: 57mm (L) x 21mm (W) Made from durable Grey PVC Weighs 24g",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
