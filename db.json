@@ -88,6 +88,7 @@
             "name": "Satin Gunmetal",
             "brand_logo": "https://images.canadawheels.ca/images/Brands/15313138141512001057Fast_Wheels-opt.png",
             "brand_intro": "Fast Wheels is one of the best brands in Canada in terms of their quality. If you're looking for a custom tuner wheel, a direct-fit wheel, or something for your winter tires, Fast Wheels is one of our top recommendations every time. As wheel technology advances, so does Fast Wheels business practice, to move the OEM accessory and tuner wheel market forward. Their latest Flow Form technology is amazing for low-weight winter approved wheels, and they have the largest catalog of all Canadian brands.",
+            "product_model": "Gunmetal",
             "links": [
                 {
                     "name": "Home",
@@ -116,38 +117,15 @@
             "rating": {
                 "average": "3.9",
                 "no_reviews": "1"
-            },
-            "features": [
-                "All wheels are tested to exceed JWL, VIA and SAE standards for radial fatigue, impact resistance, bending resistance, air leaking and more",
-                "Analysis and revision with Solid Works® prior to production approval",
-                "CASS (salt spray) corrosion tested",
-                "GVWR (load rating) verification for every vehicle 3D digital mapping with the aerospace approved Faro Gauge® to confirm X and Y factor clearance check",
-                "40 000+ Canadian specific vehicles measured with over 300 data points",
-                "Custom fitments drilled and milled with Mazak CNC 3-axis vertical mill",
-                "SEMA certified installers",
-                "Highest standards in radial & lateral run out verification",
-                "Wheel and tire packages are laser optically balanced",
-                "The industry’s benchmark for customer support and after-sales service"
-            ],
-            "warranty": {
-                "main_title": "3 YEAR WARRANTY ON FULLY PAINTED FINISHES",
-                "title": "WHAT IS COVERED?",
-                "content": [
-                    "Peeling of the clear coat, paint or chrome finish.",
-                    "Wheels with a radial or lateral run-out greater than 0.020 inch/0.50mm, provided there is no evidence of impact.",
-                    "Stress cracks in the wheel, provided there is no evidence of impact.",
-                    "Bubbles in the paint or chrome or other blemishes in the finish of the wheel.",
-                    "Wheels that leak air.",
-                    "Improper machining of the center bore or lug holes."
-                ]
             }
         },
         {
             "id": 3,
             "type": "product",
             "name": "RTX Floor Mats ",
-            "brand_logo": "https://images.canadawheels.ca/images/Brands/1585939233rr-logo-Blk.png",
-            "brand_intro": "The Rhino-Rack Drill Stop is used to assist fitters when drilling in critical areas of a vehicle ensuring that the drill stops where desired. Made from durable grey PVC with a 5mm hole diameter, this is suitable with most drill bits. 5mm hole diameter Dimensions: 57mm (L) x 21mm (W) Made from durable Grey PVC Weighs 24g",
+            "brand_logo": "",
+            "brand_intro": "",
+            "product_model": "",
             "links": [
                 {
                     "name": "Home",
